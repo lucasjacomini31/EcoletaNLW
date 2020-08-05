@@ -8,6 +8,7 @@
   <li><a href="#">Css</a></li>
   <li><a href="#">Javascript</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
+  <li><a href="#">HTML</a></li>
 </ul>
 
 # Screenshots
@@ -17,7 +18,7 @@
 </div>
 
 
-### 💻 Web Projeto
+### 💻 Projeto Web 
 
 ```bash
 
