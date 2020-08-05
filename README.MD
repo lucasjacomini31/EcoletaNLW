@@ -1,9 +1,9 @@
 <p align="center">
-   <img src="" alt="Turma" width="400"/>   
+   <img src="https://github.com/lucasjacomini31/EcoletaNLW/blob/master/Img/home.png" alt="Ecoleta" width="400"/>   
 </p>
 <p align="center">:rocket: Plataforma para cadastrar pontos de coleta (Next Level Week) #01.</p>
 
-# :computer: Technologies
+# :computer: Tecnologias Utilizadas
 <ul>
   <li><a href="#">Css</a></li>
   <li><a href="#">Javascript</a></li>
@@ -12,20 +12,23 @@
 
 # Screenshots
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="" width="400px">
-   <img src="" width="400px">
+   <img src="https://github.com/lucasjacomini31/EcoletaNLW/blob/master/Img/search.png" width="400px">
+   <img src="https://github.com/lucasjacomini31/EcoletaNLW/blob/master/Img/create.png" width="400px">
 </div>
 
 
-### 💻 Run Web Project
+### 💻 Web Projeto
 
 ```bash
 
-# Install Dependencies
+# Instalar dependencias
+
 $ yarn install
 $ npm install
-# Run Aplication
+
+# Rodas Aplicação
+
 $ yarn start
 $ npm start
 ```
-Go to http://localhost:3000/ to see the result.
+Depois vá até http://localhost:3000/ para olhar o resultado.
