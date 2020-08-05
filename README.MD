@@ -11,12 +11,6 @@
   <li><a href="#">HTML</a></li>
 </ul>
 
-# Screenshots
-<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/lucasjacomini31/EcoletaNLW/blob/master/Img/search.png" width="400px">
-   <img src="https://github.com/lucasjacomini31/EcoletaNLW/blob/master/Img/create.png" width="400px">
-</div>
-
 
 ### 💻 Projeto Web 
 
